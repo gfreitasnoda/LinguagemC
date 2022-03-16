@@ -2,6 +2,7 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "stdio.h": "c",
-        "mediaescolar2.C": "cpp"
+        "mediaescolar2.C": "cpp",
+        "entradatexto.C": "cpp"
     }
 }
