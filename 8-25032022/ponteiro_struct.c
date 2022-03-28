@@ -25,6 +25,8 @@ void main (){
     scanf("%d" ,&pNovoCliente->idade);
 
     printf("O nome do cliente é %s\n",pNovoCliente->nome);
+    printf("O email do cliente é %s\n",pNovoCliente->email);
+    printf("A idade do cliente é %s\n",pNovoCliente->idade);
 
 
 }
