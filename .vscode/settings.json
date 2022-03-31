@@ -3,6 +3,7 @@
     "files.associations": {
         "stdio.h": "c",
         "mediaescolar2.C": "cpp",
-        "entradatexto.C": "cpp"
+        "entradatexto.C": "cpp",
+        "calcculo2.h": "c"
     }
 }
