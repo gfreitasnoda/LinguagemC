@@ -19,8 +19,16 @@ void maiorValor (int array[], int tamanho){
             m = array[i];
         }
     }
-
+void menorValor (int array[], int tamanho){
+    int m = array[0];
+    for(int i = 1;i < tamanho; i++){
+        if (array[i] < m){
+            m = array[i];
+        }
+    }
+    printf("O menor valor é %d\n",m);
 }
+
 void ordenar(int valores[], int tamanho){
     for (int j = 1 ; j < tamanho ; j++){
         int x = valores[j];
@@ -30,4 +38,8 @@ void ordenar(int valores[], int tamanho){
         }
         valores[i+1] = x;
     }   
+    for(int p = 0 ; p < tamanho ; p++){
+        printf("%d - ", valores[p]);
+    }
+
 }
