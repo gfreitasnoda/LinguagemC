@@ -3,7 +3,7 @@
 
 ## Aplicando em logica de programação
 
-### Aqui você verá o estudo da linguagem C, do começo ao avançado.
+### Neste readme você verá todo o  estudo da linguagem C, do começo ao avançado.
 
 #### Em cada pasta tem exercícios em C. Pastas estão numeradas por data e numeração.
 
